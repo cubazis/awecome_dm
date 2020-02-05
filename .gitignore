@@ -1,4 +1,7 @@
 envs/*
 !envs/*.txt
 resources/*.txt
+resources/*/*.txt
 .idea
+__pycache__
+.ipynb_checkpoints/
