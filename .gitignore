@@ -1,3 +1,4 @@
-venvs/*
+envs/*
+!envs/*.txt
 resources/*.txt
 .idea
